@@ -35,6 +35,7 @@ Example row (copy/paste and edit):
 ```
 
 | Project (GitHub) | Description | Author/Contributor |
+|:--|:--|:--|
 
 ## Reporting Bugs/Issues and Posting Questions and Comments ##
 
