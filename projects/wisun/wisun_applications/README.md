@@ -38,7 +38,6 @@ Example row (copy/paste and edit):
 
 | Project (GitHub) | Description | Author/Contributor |
 |:--|:--|:--|
-|[NeuroBubble](https://github.com/Devilwelcometohell/NeuroBubble-AI-Powered-Emergency-Self-Healing-Communication-Network) | NeuroBubble is an AI-powered self-healing Wi-SUN mesh communication network that provides reliable connectivity during disasters and infrastructure failures through predictive routing and intelligent network optimization.| [Devang Shukla](https://github.com/Devilwelcometohell) |
 
 ## Documentation ##
 
